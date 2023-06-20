@@ -1,3 +1,4 @@
+Design URL: https://www.figma.com/file/TMjLvoDJkZCoBUKmT7HvWX/free-ecommerce-minimal-template-(Community)?type=design&node-id=505-746&t=UqrbgUTi3CQBGmWM-0
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
